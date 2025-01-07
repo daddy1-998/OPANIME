@@ -47,8 +47,8 @@ function AnimeTrending() {
                 </div>
                 <div className='p-[2%] w-full flex items-center justify-evenly gap-[20px] flex-row'>
 
-                  <a href={download} target="_blank" className='bg-primary text-white  font-bold flex items-center gap-3 '><IoMdDownload/> Download</a>
-                  <a href={watch} target="_blank" className='bg-primary text-white  font-bold flex items-center gap-3 '><BiMoviePlay/> Watch</a>
+                  <a href={download} target="_blank" className='bg-black text-white  font-bold flex items-center gap-3 '><IoMdDownload/> Download</a>
+                  <a href={watch} target="_blank" className='bg-black text-white  font-bold flex items-center gap-3 '><BiMoviePlay/> Watch</a>
 
                 </div>
               </div>
