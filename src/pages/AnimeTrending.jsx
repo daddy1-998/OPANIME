@@ -36,7 +36,7 @@ function AnimeTrending() {
                   <img className='w-full h-full object-cover center ' src={image} alt={title} />
                 </div>
                 <div className='flex flex-col items-center gap-[20px]'>
-                  <h1 className=' font-bold  tracking-[5px]'>{title}</h1>
+                  <h1 className=' font-bold  tracking-[1.5px]'>{title}</h1>
                   <p className='flex items-center gap-4'>
                   {Array.from({ length: rating }, (_, index) => (
                     <FaStar key={index} className="text-yellow-500"  />
