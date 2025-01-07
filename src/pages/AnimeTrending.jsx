@@ -7,11 +7,11 @@ function AnimeTrending() {
   const animes = [
     {
       id: 1,
-      title: "eminence in shadow",
-      image: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      title: "Solo Leveling Arise From Shadow",
+      image: "https://comicvine.gamespot.com/a/uploads/scale_large/11160/111607459/9275134-sololeveling-c022%28v08%29-p000%5Bcover%5D%5Bdig%5D%5Byenpress%5D%5Blucaz%5D.jpg",
       rating: "4",
-      watch: "https://sites.google.com/view/aniversestudio/trending-animes",
-      download: "https://sites.google.com/view/aniversestudio/trending-animes"
+      watch: "https://installchecker.com/cl/i/me4rmw",
+      download: "https://installchecker.com/cl/i/me4rmw"
     }
   ]
 
