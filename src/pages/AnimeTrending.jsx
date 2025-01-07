@@ -31,7 +31,7 @@ function AnimeTrending() {
             const { title, image, type, rating, watch, download } = anime;
             return (
 
-              <div key={index} className='font-Poppins uppercase text-white w-[350px] h-[500px] bg-red-500 flex flex-col items-center gap-[15px] rounded-[10px] overflow-hidden'>
+              <div key={index} className='font-Poppins uppercase text-white w-[350px] h-[500px] bg-black-500 flex flex-col items-center gap-[15px] rounded-[10px] overflow-hidden'>
                 <div className='w-full h-[350px] '>
                   <img className='w-full h-full object-cover center ' src={image} alt={title} />
                 </div>
