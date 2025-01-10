@@ -7,7 +7,7 @@ function AnimeTrending() {
   const animes = [
     {
       id: 1,
-      title: "eminence in shadow",
+      title: "SOLO LEVELING MOVIE",
       image: "https://m.media-amazon.com/images/I/81ZAC67DE1S._SY425_.jpg",
       rating: "4",
       watch: "https://sites.google.com/view/aniversestudio/trending-animes",
