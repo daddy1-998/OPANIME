@@ -8,7 +8,7 @@ function AnimeTrending() {
     {
       id: 1,
       title: "eminence in shadow",
-      image: "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      image: "https://m.media-amazon.com/images/I/81ZAC67DE1S._SY425_.jpg",
       rating: "4",
       watch: "https://sites.google.com/view/aniversestudio/trending-animes",
       download: "https://sites.google.com/view/aniversestudio/trending-animes"
